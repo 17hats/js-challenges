@@ -1,0 +1,323 @@
+{
+   "leads" : [
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2014-10",
+         "tally" : 8
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2014-11",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2014-12",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2015-01",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2015-02",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2015-03",
+         "tally" : 4
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2015-04",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2015-05",
+         "tally" : 4
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2015-06",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2015-07",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "period" : "2015-08",
+         "tally" : 0
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2015-09",
+         "tally" : 6
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2015-10",
+         "tally" : 5
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2015-11",
+         "tally" : 4
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2015-12",
+         "tally" : 4
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2016-01",
+         "tally" : 7
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2016-02",
+         "tally" : 19
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2016-03",
+         "tally" : 6
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2016-04",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2016-05",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2016-06",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "period" : "2016-07",
+         "tally" : 0
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2016-08",
+         "tally" : 4
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2016-09",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2016-10",
+         "tally" : 4
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2016-11",
+         "tally" : 4
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2016-12",
+         "tally" : 9
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2017-01",
+         "tally" : 14
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2017-02",
+         "tally" : 19
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2017-03",
+         "tally" : 8
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2017-04",
+         "tally" : 5
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2017-05",
+         "tally" : 11
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2017-06",
+         "tally" : 9
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2017-07",
+         "tally" : 18
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2017-08",
+         "tally" : 13
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2017-09",
+         "tally" : 8
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2017-10",
+         "tally" : 11
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2017-11",
+         "tally" : 14
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2017-12",
+         "tally" : 7
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2018-01",
+         "tally" : 14
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2018-02",
+         "tally" : 11
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2018-03",
+         "tally" : 15
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2018-04",
+         "tally" : 5
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2018-05",
+         "tally" : 14
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2018-06",
+         "tally" : 8
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2018-07",
+         "tally" : 6
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2018-08",
+         "tally" : 20
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2018-09",
+         "tally" : 21
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2018-10",
+         "tally" : 21
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2018-11",
+         "tally" : 16
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2018-12",
+         "tally" : 12
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2019-01",
+         "tally" : 20
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "period" : "2019-02",
+         "tally" : 2
+      }
+   ]
+}
+

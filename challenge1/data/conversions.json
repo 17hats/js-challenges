@@ -1,0 +1,377 @@
+{
+   "conversions" : [
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "89",
+         "period" : "2014-10",
+         "tally" : 7
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "3",
+         "period" : "2014-11",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "4",
+         "period" : "2014-12",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "6",
+         "period" : "2015-01",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "8",
+         "period" : "2015-02",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "5",
+         "period" : "2015-03",
+         "tally" : 4
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "3",
+         "period" : "2015-04",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "14",
+         "period" : "2015-05",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "6",
+         "period" : "2015-06",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "7",
+         "period" : "2015-07",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "conversion_time_in_days" : 0,
+         "period" : "2015-08",
+         "tally" : 0
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "10",
+         "period" : "2015-09",
+         "tally" : 6
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "64",
+         "period" : "2015-10",
+         "tally" : 5
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "24",
+         "period" : "2015-11",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "14",
+         "period" : "2015-12",
+         "tally" : 4
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "15",
+         "period" : "2016-01",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "25",
+         "period" : "2016-02",
+         "tally" : 6
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "6",
+         "period" : "2016-03",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "35",
+         "period" : "2016-04",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "30",
+         "period" : "2016-05",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "conversion_time_in_days" : 0,
+         "period" : "2016-06",
+         "tally" : 0
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "conversion_time_in_days" : 0,
+         "period" : "2016-07",
+         "tally" : 0
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "5",
+         "period" : "2016-08",
+         "tally" : 4
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "5",
+         "period" : "2016-09",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "3",
+         "period" : "2016-10",
+         "tally" : 4
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "0",
+         "period" : "2016-11",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "12",
+         "period" : "2016-12",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "0",
+         "period" : "2017-01",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "15",
+         "period" : "2017-02",
+         "tally" : 5
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "176",
+         "period" : "2017-03",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "conversion_time_in_days" : 0,
+         "period" : "2017-04",
+         "tally" : 0
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "10",
+         "period" : "2017-05",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "19",
+         "period" : "2017-06",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "13",
+         "period" : "2017-07",
+         "tally" : 5
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "conversion_time_in_days" : 0,
+         "period" : "2017-08",
+         "tally" : 0
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "19",
+         "period" : "2017-09",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "11",
+         "period" : "2017-10",
+         "tally" : 4
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "2",
+         "period" : "2017-11",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "6",
+         "period" : "2017-12",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "25",
+         "period" : "2018-01",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "201",
+         "period" : "2018-02",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "12",
+         "period" : "2018-03",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "conversion_time_in_days" : 0,
+         "period" : "2018-04",
+         "tally" : 0
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "32",
+         "period" : "2018-05",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "74",
+         "period" : "2018-06",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "2",
+         "period" : "2018-07",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "13",
+         "period" : "2018-08",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "2",
+         "period" : "2018-09",
+         "tally" : 9
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "8",
+         "period" : "2018-10",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "conversion_time_in_days" : 0,
+         "period" : "2018-11",
+         "tally" : 0
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "3",
+         "period" : "2018-12",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "0.00",
+         "avg_revenue_per_client" : "0.00",
+         "conversion_time_in_days" : "6",
+         "period" : "2019-01",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "conversion_time_in_days" : 0,
+         "period" : "2019-02",
+         "tally" : 0
+      }
+   ]
+}
+
+

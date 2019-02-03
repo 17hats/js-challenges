@@ -1,0 +1,429 @@
+{
+   "revenue" : [
+      {
+         "avg_billed_per_client" : "4364.13",
+         "avg_revenue_per_client" : "2444.17",
+         "billed" : "26184.75",
+         "period" : "2014-10",
+         "revenue" : "14665.00",
+         "tally" : 6
+      },
+      {
+         "avg_billed_per_client" : "2586.50",
+         "avg_revenue_per_client" : "1337.00",
+         "billed" : "5173.00",
+         "period" : "2014-11",
+         "revenue" : "2674.00",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "3598.50",
+         "avg_revenue_per_client" : "1499.50",
+         "billed" : "7197.00",
+         "period" : "2014-12",
+         "revenue" : "2999.00",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "500.00",
+         "avg_revenue_per_client" : "500.00",
+         "billed" : "500.00",
+         "period" : "2015-01",
+         "revenue" : "500.00",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "10267.32",
+         "avg_revenue_per_client" : "5133.66",
+         "billed" : "10267.32",
+         "period" : "2015-02",
+         "revenue" : "5133.66",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "4864.11",
+         "avg_revenue_per_client" : "2486.22",
+         "billed" : "14592.32",
+         "period" : "2015-03",
+         "revenue" : "7458.66",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : "7845.32",
+         "avg_revenue_per_client" : "4022.66",
+         "billed" : "7845.32",
+         "period" : "2015-04",
+         "revenue" : "4022.66",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "3149.77",
+         "avg_revenue_per_client" : "2294.34",
+         "billed" : "9449.30",
+         "period" : "2015-05",
+         "revenue" : "6883.02",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : "3933.00",
+         "avg_revenue_per_client" : "1966.50",
+         "billed" : "3933.00",
+         "period" : "2015-06",
+         "revenue" : "1966.50",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "2691.67",
+         "avg_revenue_per_client" : "1358.33",
+         "billed" : "8075.00",
+         "period" : "2015-07",
+         "revenue" : "4075.00",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "billed" : 0,
+         "period" : "2015-08",
+         "revenue" : 0,
+         "tally" : 0
+      },
+      {
+         "avg_billed_per_client" : "5673.04",
+         "avg_revenue_per_client" : "2608.38",
+         "billed" : "34038.25",
+         "period" : "2015-09",
+         "revenue" : "15650.25",
+         "tally" : 6
+      },
+      {
+         "avg_billed_per_client" : "4556.46",
+         "avg_revenue_per_client" : "3323.76",
+         "billed" : "22782.32",
+         "period" : "2015-10",
+         "revenue" : "16618.82",
+         "tally" : 5
+      },
+      {
+         "avg_billed_per_client" : "6148.55",
+         "avg_revenue_per_client" : "4010.72",
+         "billed" : "18445.65",
+         "period" : "2015-11",
+         "revenue" : "12032.15",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : "4918.22",
+         "avg_revenue_per_client" : "2686.58",
+         "billed" : "14754.66",
+         "period" : "2015-12",
+         "revenue" : "8059.73",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : "12900.39",
+         "avg_revenue_per_client" : "6990.01",
+         "billed" : "25800.77",
+         "period" : "2016-01",
+         "revenue" : "13980.02",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "10706.85",
+         "avg_revenue_per_client" : "4120.30",
+         "billed" : "42827.38",
+         "period" : "2016-02",
+         "revenue" : "16481.19",
+         "tally" : 4
+      },
+      {
+         "avg_billed_per_client" : "8305.50",
+         "avg_revenue_per_client" : "4152.75",
+         "billed" : "8305.50",
+         "period" : "2016-03",
+         "revenue" : "4152.75",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "725.00",
+         "avg_revenue_per_client" : "725.00",
+         "billed" : "1450.00",
+         "period" : "2016-04",
+         "revenue" : "1450.00",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "12546.50",
+         "avg_revenue_per_client" : "6673.25",
+         "billed" : "12546.50",
+         "period" : "2016-05",
+         "revenue" : "6673.25",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "billed" : 0,
+         "period" : "2016-06",
+         "revenue" : 0,
+         "tally" : 0
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "billed" : 0,
+         "period" : "2016-07",
+         "revenue" : 0,
+         "tally" : 0
+      },
+      {
+         "avg_billed_per_client" : "3393.50",
+         "avg_revenue_per_client" : "2009.25",
+         "billed" : "10180.50",
+         "period" : "2016-08",
+         "revenue" : "6027.75",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : "420.17",
+         "avg_revenue_per_client" : "420.17",
+         "billed" : "1260.50",
+         "period" : "2016-09",
+         "revenue" : "1260.50",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : "2312.80",
+         "avg_revenue_per_client" : "2312.80",
+         "billed" : "4625.60",
+         "period" : "2016-10",
+         "revenue" : "4625.60",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "billed" : 0,
+         "period" : "2016-11",
+         "revenue" : 0,
+         "tally" : 0
+      },
+      {
+         "avg_billed_per_client" : "8566.92",
+         "avg_revenue_per_client" : "3366.75",
+         "billed" : "25700.75",
+         "period" : "2016-12",
+         "revenue" : "10100.25",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : "11729.09",
+         "avg_revenue_per_client" : "6114.55",
+         "billed" : "11729.09",
+         "period" : "2017-01",
+         "revenue" : "6114.55",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "5815.29",
+         "avg_revenue_per_client" : "3254.29",
+         "billed" : "23261.15",
+         "period" : "2017-02",
+         "revenue" : "13017.15",
+         "tally" : 4
+      },
+      {
+         "avg_billed_per_client" : "2000.00",
+         "avg_revenue_per_client" : "2000.00",
+         "billed" : "2000.00",
+         "period" : "2017-03",
+         "revenue" : "2000.00",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "billed" : 0,
+         "period" : "2017-04",
+         "revenue" : 0,
+         "tally" : 0
+      },
+      {
+         "avg_billed_per_client" : "6675.25",
+         "avg_revenue_per_client" : "4400.13",
+         "billed" : "13350.50",
+         "period" : "2017-05",
+         "revenue" : "8800.25",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "12100.50",
+         "avg_revenue_per_client" : "6050.25",
+         "billed" : "12100.50",
+         "period" : "2017-06",
+         "revenue" : "6050.25",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "3460.10",
+         "avg_revenue_per_client" : "1870.05",
+         "billed" : "17300.50",
+         "period" : "2017-07",
+         "revenue" : "9350.25",
+         "tally" : 5
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "billed" : 0,
+         "period" : "2017-08",
+         "revenue" : 0,
+         "tally" : 0
+      },
+      {
+         "avg_billed_per_client" : "10100.50",
+         "avg_revenue_per_client" : "5050.25",
+         "billed" : "10100.50",
+         "period" : "2017-09",
+         "revenue" : "5050.25",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "4684.86",
+         "avg_revenue_per_client" : "2037.81",
+         "billed" : "18739.45",
+         "period" : "2017-10",
+         "revenue" : "8151.24",
+         "tally" : 4
+      },
+      {
+         "avg_billed_per_client" : "525.00",
+         "avg_revenue_per_client" : "525.00",
+         "billed" : "1050.00",
+         "period" : "2017-11",
+         "revenue" : "1050.00",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "5225.25",
+         "avg_revenue_per_client" : "2700.13",
+         "billed" : "10450.50",
+         "period" : "2017-12",
+         "revenue" : "5400.25",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "10225.50",
+         "avg_revenue_per_client" : "5175.25",
+         "billed" : "20451.00",
+         "period" : "2018-01",
+         "revenue" : "10350.50",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "500.00",
+         "avg_revenue_per_client" : "500.00",
+         "billed" : "500.00",
+         "period" : "2018-02",
+         "revenue" : "500.00",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "7245.00",
+         "avg_revenue_per_client" : "1811.25",
+         "billed" : "7245.00",
+         "period" : "2018-03",
+         "revenue" : "1811.25",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "billed" : 0,
+         "period" : "2018-04",
+         "revenue" : 0,
+         "tally" : 0
+      },
+      {
+         "avg_billed_per_client" : "5024.63",
+         "avg_revenue_per_client" : "1193.66",
+         "billed" : "10049.25",
+         "period" : "2018-05",
+         "revenue" : "2387.31",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "5550.25",
+         "avg_revenue_per_client" : "1500.00",
+         "billed" : "5550.25",
+         "period" : "2018-06",
+         "revenue" : "1500.00",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "525.00",
+         "avg_revenue_per_client" : "525.00",
+         "billed" : "1050.00",
+         "period" : "2018-07",
+         "revenue" : "1050.00",
+         "tally" : 2
+      },
+      {
+         "avg_billed_per_client" : "5050.25",
+         "avg_revenue_per_client" : "1262.56",
+         "billed" : "5050.25",
+         "period" : "2018-08",
+         "revenue" : "1262.56",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "1855.78",
+         "avg_revenue_per_client" : "692.23",
+         "billed" : "14846.25",
+         "period" : "2018-09",
+         "revenue" : "5537.81",
+         "tally" : 8
+      },
+      {
+         "avg_billed_per_client" : "4149.33",
+         "avg_revenue_per_client" : "1212.33",
+         "billed" : "12448.00",
+         "period" : "2018-10",
+         "revenue" : "3637.00",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "billed" : 0,
+         "period" : "2018-11",
+         "revenue" : 0,
+         "tally" : 0
+      },
+      {
+         "avg_billed_per_client" : "1000.00",
+         "avg_revenue_per_client" : "1000.00",
+         "billed" : "1000.00",
+         "period" : "2018-12",
+         "revenue" : "1000.00",
+         "tally" : 1
+      },
+      {
+         "avg_billed_per_client" : "5798.92",
+         "avg_revenue_per_client" : "1449.73",
+         "billed" : "17396.75",
+         "period" : "2019-01",
+         "revenue" : "4349.19",
+         "tally" : 3
+      },
+      {
+         "avg_billed_per_client" : 0,
+         "avg_revenue_per_client" : 0,
+         "billed" : 0,
+         "period" : "2019-02",
+         "revenue" : 0,
+         "tally" : 0
+      }
+   ]
+}
+
