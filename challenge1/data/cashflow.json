@@ -1,219 +1,212 @@
 {
-   "cashflow" : [
-      {
-         "cashflow" : 0,
-         "period" : "2014-10"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2014-11"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2014-12"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2015-01"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2015-02"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2015-03"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2015-04"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2015-05"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2015-06"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2015-07"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2015-08"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2015-09"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2015-10"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2015-11"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2015-12"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2016-01"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2016-02"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2016-03"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2016-04"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2016-05"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2016-06"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2016-07"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2016-08"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2016-09"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2016-10"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2016-11"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2016-12"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2017-01"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2017-02"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2017-03"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2017-04"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2017-05"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2017-06"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2017-07"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2017-08"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2017-09"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2017-10"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2017-11"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2017-12"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2018-01"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2018-02"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2018-03"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2018-04"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2018-05"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2018-06"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2018-07"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2018-08"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2018-09"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2018-10"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2018-11"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2018-12"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2019-01"
-      },
-      {
-         "cashflow" : 0,
-         "period" : "2019-02"
-      }
-   ]
+    "cashflow" : [
+    {
+        "cashflow" : "624.75",
+        "period" : "2014-09"
+    },
+    {
+        "cashflow" : "1437.00",
+        "period" : "2014-10"
+    },
+    {
+        "cashflow" : "1424.75",
+        "period" : "2014-11"
+    },
+    {
+        "cashflow" : "1025.00",
+        "period" : "2014-12"
+    },
+    {
+        "cashflow" : "0",
+        "period" : "2015-01"
+    },
+    {
+        "cashflow" : "2374.25",
+        "period" : "2015-02"
+    },
+    {
+        "cashflow" : "2822.71",
+        "period" : "2015-03"
+    },
+    {
+        "cashflow" : "9851.92",
+        "period" : "2015-04"
+    },
+    {
+        "cashflow" : "1141.57",
+        "period" : "2015-05"
+    },
+    {
+        "cashflow" : "6295.37",
+        "period" : "2015-06"
+    },
+    {
+        "cashflow" : "7174.95",
+        "period" : "2015-07"
+    },
+    {
+        "cashflow" : "4594.37",
+        "period" : "2015-08"
+    },
+    {
+        "cashflow" : "2774.25",
+        "period" : "2015-09"
+    },
+    {
+        "cashflow" : "10369.42",
+        "period" : "2015-10"
+    },
+    {
+        "cashflow" : "4845.70",
+        "period" : "2015-11"
+    },
+    {
+        "cashflow" : "6238.65",
+        "period" : "2015-12"
+    },
+    {
+        "cashflow" : "3340.26",
+        "period" : "2016-01"
+    },
+    {
+        "cashflow" : "2859.53",
+        "period" : "2016-02"
+    },
+    {
+        "cashflow" : "2212.62",
+        "period" : "2016-03"
+    },
+    {
+        "cashflow" : "11598.62",
+        "period" : "2016-04"
+    },
+    {
+        "cashflow" : "2263.19",
+        "period" : "2016-05"
+    },
+    {
+        "cashflow" : "11333.57",
+        "period" : "2016-06"
+    },
+    {
+        "cashflow" : "11365.14",
+        "period" : "2016-07"
+    },
+    {
+        "cashflow" : "6522.83",
+        "period" : "2016-08"
+    },
+    {
+        "cashflow" : "9764.31",
+        "period" : "2016-09"
+    },
+    {
+        "cashflow" : "6610.62",
+        "period" : "2016-10"
+    },
+    {
+        "cashflow" : "1525.00",
+        "period" : "2016-11"
+    },
+    {
+        "cashflow" : "6466.20",
+        "period" : "2016-12"
+    },
+    {
+        "cashflow" : "3736.65",
+        "period" : "2017-01"
+    },
+    {
+        "cashflow" : "700.00",
+        "period" : "2017-02"
+    },
+    {
+        "cashflow" : "8939.35",
+        "period" : "2017-03"
+    },
+    {
+        "cashflow" : "7894.50",
+        "period" : "2017-04"
+    },
+    {
+        "cashflow" : "4370.00",
+        "period" : "2017-05"
+    },
+    {
+        "cashflow" : "4512.56",
+        "period" : "2017-06"
+    },
+    {
+        "cashflow" : "5354.80",
+        "period" : "2017-07"
+    },
+    {
+        "cashflow" : "6779.30",
+        "period" : "2017-08"
+    },
+    {
+        "cashflow" : "6305.21",
+        "period" : "2017-09"
+    },
+    {
+        "cashflow" : "6216.81",
+        "period" : "2017-10"
+    },
+    {
+        "cashflow" : "2312.56",
+        "period" : "2017-11"
+    },
+    {
+        "cashflow" : "7367.39",
+        "period" : "2017-12"
+    },
+    {
+        "cashflow" : "0",
+        "period" : "2018-01"
+    },
+    {
+        "cashflow" : "2319.22",
+        "period" : "2018-02"
+    },
+    {
+        "cashflow" : "7861.50",
+        "period" : "2018-03"
+    },
+    {
+        "cashflow" : "3412.69",
+        "period" : "2018-05"
+    },
+    {
+        "cashflow" : "1874.75",
+        "period" : "2018-06"
+    },
+    {
+        "cashflow" : "8962.94",
+        "period" : "2018-07"
+    },
+    {
+        "cashflow" : "20575.76",
+        "period" : "2018-08"
+    },
+    {
+        "cashflow" : "4300.37",
+        "period" : "2018-09"
+    },
+    {
+        "cashflow" : "6637.00",
+        "period" : "2018-10"
+    },
+    {
+        "cashflow" : "651.04",
+        "period" : "2018-11"
+    },
+    {
+        "cashflow" : "1000.00",
+        "period" : "2018-12"
+    },
+    {
+        "cashflow" : "5418.62",
+        "period" : "2019-01"
+    }
+    ]
 }
-
-
-
